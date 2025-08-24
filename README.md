@@ -1,16 +1,24 @@
-# reborn_design
+# Flutter To-Do App
 
-A new Flutter project.
+A simple and beginner-friendly **Flutter To-Do List app** to manage daily tasks.
+
+## Features
+- Add new tasks
+- Mark tasks as done/undone using checkboxes
+- Delete tasks
+- Simple and clean UI
+- Built with Flutter (Dart)
+
+## Screenshots
+*(Add some screenshots here if you want)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to Run
+1. Clone this repository:
+```bash
+git clone https://github.com/sou963/todo_app.git
