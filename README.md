@@ -10,7 +10,8 @@ A simple and beginner-friendly **Flutter To-Do List app** to manage daily tasks.
 - Built with Flutter (Dart)
 
 ## Screenshots
-*(Add some screenshots here if you want)*
+
+<img width="196" height="390" alt="todopicture" src="https://github.com/user-attachments/assets/f512b990-dd64-4d4a-84eb-30c4eb45a351" />
 
 ## Getting Started
 
